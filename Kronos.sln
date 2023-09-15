@@ -1,0 +1,31 @@
+
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.3.32929.385
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Kronos", "Kronos\Kronos.csproj", "{8324626E-7737-4D6C-BA5B-950B9A525723}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Kronos.Contract", "Kronos.Contract\Kronos.Contract.csproj", "{A6CD71CA-9434-4E61-A035-A6FACE7F7A02}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{8324626E-7737-4D6C-BA5B-950B9A525723}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8324626E-7737-4D6C-BA5B-950B9A525723}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8324626E-7737-4D6C-BA5B-950B9A525723}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8324626E-7737-4D6C-BA5B-950B9A525723}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A6CD71CA-9434-4E61-A035-A6FACE7F7A02}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A6CD71CA-9434-4E61-A035-A6FACE7F7A02}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A6CD71CA-9434-4E61-A035-A6FACE7F7A02}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A6CD71CA-9434-4E61-A035-A6FACE7F7A02}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {2753799D-0441-4D93-8F6C-F27D0E961E48}
+	EndGlobalSection
+EndGlobal

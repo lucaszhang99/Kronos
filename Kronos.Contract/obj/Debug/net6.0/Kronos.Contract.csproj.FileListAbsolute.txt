@@ -1,0 +1,12 @@
+C:\Users\LucasZhang\Documents\Repos\Kronos\Kronos.Contract\bin\Debug\net6.0\Kronos.Contract.deps.json
+C:\Users\LucasZhang\Documents\Repos\Kronos\Kronos.Contract\bin\Debug\net6.0\Kronos.Contract.dll
+C:\Users\LucasZhang\Documents\Repos\Kronos\Kronos.Contract\bin\Debug\net6.0\Kronos.Contract.pdb
+C:\Users\LucasZhang\Documents\Repos\Kronos\Kronos.Contract\obj\Debug\net6.0\Kronos.Contract.csproj.AssemblyReference.cache
+C:\Users\LucasZhang\Documents\Repos\Kronos\Kronos.Contract\obj\Debug\net6.0\Kronos.Contract.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\LucasZhang\Documents\Repos\Kronos\Kronos.Contract\obj\Debug\net6.0\Kronos.Contract.AssemblyInfoInputs.cache
+C:\Users\LucasZhang\Documents\Repos\Kronos\Kronos.Contract\obj\Debug\net6.0\Kronos.Contract.AssemblyInfo.cs
+C:\Users\LucasZhang\Documents\Repos\Kronos\Kronos.Contract\obj\Debug\net6.0\Kronos.Contract.csproj.CoreCompileInputs.cache
+C:\Users\LucasZhang\Documents\Repos\Kronos\Kronos.Contract\obj\Debug\net6.0\Kronos.Contract.dll
+C:\Users\LucasZhang\Documents\Repos\Kronos\Kronos.Contract\obj\Debug\net6.0\refint\Kronos.Contract.dll
+C:\Users\LucasZhang\Documents\Repos\Kronos\Kronos.Contract\obj\Debug\net6.0\Kronos.Contract.pdb
+C:\Users\LucasZhang\Documents\Repos\Kronos\Kronos.Contract\obj\Debug\net6.0\ref\Kronos.Contract.dll

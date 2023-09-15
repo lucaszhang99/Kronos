@@ -1,0 +1,15 @@
+{
+  "version": 2,
+  "dgSpecHash": "UVPGScYjBJtm9tVvX8E7jL2bzGkUTfrM2wJ/uPWKDt5w3MgIBjnaZC5UJe8N39xSoTCGdMqrT4K74kVEt7ReEA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\LucasZhang\\Documents\\Repos\\Kronos\\Kronos.Contract\\Kronos.Contract.csproj",
+  "expectedPackageFiles": [],
+  "logs": [
+    {
+      "code": "NU1803",
+      "level": "Warning",
+      "warningLevel": 1,
+      "message": "You are running the 'restore' operation with an 'HTTP' source, 'http://10.1.90.106:85/nuget'. Non-HTTPS access will be removed in a future version. Consider migrating to an 'HTTPS' source."
+    }
+  ]
+}
