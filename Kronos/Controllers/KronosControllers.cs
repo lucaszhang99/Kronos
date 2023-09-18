@@ -10,6 +10,12 @@ namespace Kronos.Controllers;
 [ApiController]
 public class KronosControllers : ControllerBase
 {
+    private readonly RedmineAgent redmineAgent;
+
+    public KronosControllers(RedmineAgent redmineAgent)
+    {
+        this.redmineAgent = redmineAgent;
+    }
 
     [HttpPost("/")]
     public IActionResult HandleWebHook([FromBody] PushEvent pushEvent)
@@ -23,7 +29,7 @@ public class KronosControllers : ControllerBase
                     eventName: pushEvent.EventName,
                     author: item.Author,
                     commit: item);
-               bool submit =  RedmineAgent.SubmitTime(eventModel);
+               bool submit = redmineAgent.SubmitTime(eventModel);
             }
         }
 
